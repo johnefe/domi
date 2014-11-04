@@ -1,4 +1,4 @@
-package com.innovus.domi;
+package com.innovus.domi.domain;
 
 public class HelloGreeting {
 

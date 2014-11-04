@@ -1,9 +1,11 @@
-package com.innovus.domi;
+package com.innovus.domi.spi;
 
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
 import com.google.api.server.spi.response.NotFoundException;
 import com.google.appengine.api.users.User;
+import com.innovus.domi.*;
+import com.innovus.domi.domain.*;
 
 import java.util.ArrayList;
 
